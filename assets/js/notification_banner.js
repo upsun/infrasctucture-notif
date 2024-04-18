@@ -25,7 +25,7 @@ function checkProjectStatus(projectId) {
             Notiflix.Loading.custom(
                 'A new deployment of your application has started, please wait for the application to be back. This should take less than a minute.',
                 {
-                    customSvgUrl: 'https://github.com/upsun/infrasctucture-notif/blob/main/assets/images/anim_shadok_01.gif',
+                    customSvgUrl: 'https://raw.githubusercontent.com/upsun/infrasctucture-notif/main/assets/images/anim_shadok_01.gif',
                     svgSize: '400px',
                     backgroundColor: 'rgba(0,0,0,0.8)',
                     messageMaxLength: 300,
