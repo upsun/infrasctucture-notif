@@ -5,7 +5,7 @@ const interval = 2000; // 2sec
 const endpoint = 'https://main-bvxea6i-ghijkl6789.eu-1.platformsh.site' + '/api/';
 
 /**
- * Function that check project status and display a Notiflix banner if a deployment is in progress.
+ * Function that checks project status and displays a Notiflix banner if a deployment is in progress.
  * Notiflix Documentation: https://notiflix.github.io/documentation
  *
  * @returns void
