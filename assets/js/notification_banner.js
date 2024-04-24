@@ -2,7 +2,7 @@
 const projectId = 'abcdef12345';
 const environment = 'main';
 const interval = 2000; // 2sec
-const endpoint = 'https://main-bvxea6i-ghijkl6789.eu-1.platformsh.site' + '/api/';
+const endpoint = 'YourMainEnvironmentUrl' + '/api/';
 
 /**
  * Function that checks project status and displays a Notiflix banner if a deployment is in progress.
